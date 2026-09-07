@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "policy": "Missing visual assets must never break gameplay. Every scene has a stable assetId and falls back to the cinematic placeholder until final art is delivered.",
+  "assets": [
+    {"assetId":"ENV-001_VANDENBERG_SALA_DE_COMANDO","status":"pending","type":"environment"},
+    {"assetId":"SC-PROLOGO_PRONTA","status":"pending","type":"key_scene"},
+    {"assetId":"ENV-002_GENEBRA_CENTRO_DE_GOVERNANCA","status":"pending","type":"environment"},
+    {"assetId":"SC-A1_HELENA_ATLAS","status":"pending","type":"key_scene"},
+    {"assetId":"ENV-003_GENEBRA_RUA_EM_COLAPSO","status":"pending","type":"environment"},
+    {"assetId":"ENV-006_ESTACAO_DE_GENEBRA","status":"pending","type":"environment"},
+    {"assetId":"ENV-005_CAMARA_DA_INTERFACE","status":"pending","type":"environment"},
+    {"assetId":"SC-A1_LIA_INTERFACE","status":"pending","type":"key_scene"},
+    {"assetId":"ENV-007_TUNEL","status":"pending","type":"environment"},
+    {"assetId":"SC-PART1_CHECKPOINT","status":"pending","type":"key_scene"}
+  ]
+}
